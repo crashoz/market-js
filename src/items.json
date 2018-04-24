@@ -1,0 +1,4328 @@
+[
+  {
+    "slug": "air",
+    "fr_name": "Air",
+    "id": "0",
+    "meta": "0",
+    "img": "air.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Roche",
+    "id": "1",
+    "meta": "0",
+    "img": "stone.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Granite",
+    "id": "1",
+    "meta": "1",
+    "img": "granite.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Granite poli",
+    "id": "1",
+    "meta": "2",
+    "img": "polished_granite.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Diorite",
+    "id": "1",
+    "meta": "3",
+    "img": "diorite.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Diorite polie",
+    "id": "1",
+    "meta": "4",
+    "img": "polished_diorite.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Andésite",
+    "id": "1",
+    "meta": "5",
+    "img": "andesite.png"
+  },
+  {
+    "slug": "stone",
+    "fr_name": "Andésite polie",
+    "id": "1",
+    "meta": "6",
+    "img": "polished_andesite.png"
+  },
+  {
+    "slug": "grass",
+    "fr_name": "Bloc d'herbe",
+    "id": "2",
+    "meta": "0",
+    "img": "grass_block.png"
+  },
+  {
+    "slug": "dirt",
+    "fr_name": "Terre",
+    "id": "3",
+    "meta": "0",
+    "img": "dirt.png"
+  },
+  {
+    "slug": "dirt",
+    "fr_name": "Terre stérile",
+    "id": "3",
+    "meta": "1",
+    "img": "coarse_dirt.png"
+  },
+  {
+    "slug": "dirt",
+    "fr_name": "Podzol",
+    "id": "3",
+    "meta": "2",
+    "img": "podzol.png"
+  },
+  {
+    "slug": "cobblestone",
+    "fr_name": "Pierres",
+    "id": "4",
+    "meta": "0",
+    "img": "cobblestone.png"
+  },
+  {
+    "slug": "planks",
+    "fr_name": "Planches de chêne",
+    "id": "5",
+    "meta": "0",
+    "img": "oak_wood_plank.png"
+  },
+  {
+    "slug": "planks",
+    "fr_name": "Planches de sapin",
+    "id": "5",
+    "meta": "1",
+    "img": "spruce_wood_plank.png"
+  },
+  {
+    "slug": "planks",
+    "fr_name": "Planches de bouleau",
+    "id": "5",
+    "meta": "2",
+    "img": "birch_wood_plank.png"
+  },
+  {
+    "slug": "planks",
+    "fr_name": "Planches d'acajou",
+    "id": "5",
+    "meta": "3",
+    "img": "jungle_wood_plank.png"
+  },
+  {
+    "slug": "planks",
+    "fr_name": "Planches d'acacia",
+    "id": "5",
+    "meta": "4",
+    "img": "acacia_wood_plank.png"
+  },
+  {
+    "slug": "planks",
+    "fr_name": "Planches de chêne noir",
+    "id": "5",
+    "meta": "5",
+    "img": "dark_oak_wood_plank.png"
+  },
+  {
+    "slug": "sapling",
+    "fr_name": "Pousse de chêne",
+    "id": "6",
+    "meta": "0",
+    "img": "oak_sapling.png"
+  },
+  {
+    "slug": "sapling",
+    "fr_name": "Pousse de sapin",
+    "id": "6",
+    "meta": "1",
+    "img": "spruce_sapling.png"
+  },
+  {
+    "slug": "sapling",
+    "fr_name": "Pousse de bouleau",
+    "id": "6",
+    "meta": "2",
+    "img": "birch_sapling.png"
+  },
+  {
+    "slug": "sapling",
+    "fr_name": "Pousse d'acajou",
+    "id": "6",
+    "meta": "3",
+    "img": "jungle_sapling.png"
+  },
+  {
+    "slug": "sapling",
+    "fr_name": "Pousse d'acacia",
+    "id": "6",
+    "meta": "4",
+    "img": "acacia_sapling.png"
+  },
+  {
+    "slug": "sapling",
+    "fr_name": "Pousse de chêne noir",
+    "id": "6",
+    "meta": "5",
+    "img": "dark_oak_sapling.png"
+  },
+  {
+    "slug": "bedrock",
+    "fr_name": "Bedrock",
+    "id": "7",
+    "meta": "0",
+    "img": "bedrock.png"
+  },
+  {
+    "slug": "sand",
+    "fr_name": "Sable",
+    "id": "12",
+    "meta": "0",
+    "img": "sand.png"
+  },
+  {
+    "slug": "sand",
+    "fr_name": "Sable rouge",
+    "id": "12",
+    "meta": "1",
+    "img": "red_sand.png"
+  },
+  {
+    "slug": "gravel",
+    "fr_name": "Gravier",
+    "id": "13",
+    "meta": "0",
+    "img": "gravel.png"
+  },
+  {
+    "slug": "gold_ore",
+    "fr_name": "Minerai d'or",
+    "id": "14",
+    "meta": "0",
+    "img": "gold_ore.png"
+  },
+  {
+    "slug": "iron_ore",
+    "fr_name": "Minerai de fer",
+    "id": "15",
+    "meta": "0",
+    "img": "iron_ore.png"
+  },
+  {
+    "slug": "coal_ore",
+    "fr_name": "Minerai de charbon",
+    "id": "16",
+    "meta": "0",
+    "img": "coal_ore.png"
+  },
+  {
+    "slug": "log",
+    "fr_name": "Bois de chêne",
+    "id": "17",
+    "meta": "0",
+    "img": "oak_wood.png"
+  },
+  {
+    "slug": "log",
+    "fr_name": "Bois de sapin",
+    "id": "17",
+    "meta": "1",
+    "img": "spruce_wood.png"
+  },
+  {
+    "slug": "log",
+    "fr_name": "Bois de bouleau",
+    "id": "17",
+    "meta": "2",
+    "img": "birch_wood.png"
+  },
+  {
+    "slug": "log",
+    "fr_name": "Bois d'acajou",
+    "id": "17",
+    "meta": "3",
+    "img": "jungle_wood.png"
+  },
+  {
+    "slug": "leaves",
+    "fr_name": "Feuilles de chêne",
+    "id": "18",
+    "meta": "0",
+    "img": "oak_leaves.png"
+  },
+  {
+    "slug": "leaves",
+    "fr_name": "Feuilles de sapin",
+    "id": "18",
+    "meta": "1",
+    "img": "spruce_leaves.png"
+  },
+  {
+    "slug": "leaves",
+    "fr_name": "Feuilles de bouleau",
+    "id": "18",
+    "meta": "2",
+    "img": "birch_leaves.png"
+  },
+  {
+    "slug": "leaves",
+    "fr_name": "Feuilles d'acajou",
+    "id": "18",
+    "meta": "3",
+    "img": "jungle_leaves.png"
+  },
+  {
+    "slug": "sponge",
+    "fr_name": "Éponge",
+    "id": "19",
+    "meta": "0",
+    "img": "sponge.png"
+  },
+  {
+    "slug": "sponge",
+    "fr_name": "Éponge mouillée",
+    "id": "19",
+    "meta": "1",
+    "img": "wet_sponge.png"
+  },
+  {
+    "slug": "glass",
+    "fr_name": "Verre",
+    "id": "20",
+    "meta": "0",
+    "img": "glass.png"
+  },
+  {
+    "slug": "lapis_ore",
+    "fr_name": "Minerai de lapis-lazuli",
+    "id": "21",
+    "meta": "0",
+    "img": "lapis_lazuli_ore.png"
+  },
+  {
+    "slug": "lapis_block",
+    "fr_name": "Bloc de lapis-lazuli",
+    "id": "22",
+    "meta": "0",
+    "img": "lapis_lazuli_block.png"
+  },
+  {
+    "slug": "dispenser",
+    "fr_name": "Distributeur",
+    "id": "23",
+    "meta": "0",
+    "img": "dispenser.png"
+  },
+  {
+    "slug": "sandstone",
+    "fr_name": "Grès",
+    "id": "24",
+    "meta": "0",
+    "img": "sandstone.png"
+  },
+  {
+    "slug": "sandstone",
+    "fr_name": "Grès sculpté",
+    "id": "24",
+    "meta": "1",
+    "img": "chiseled_sandstone.png"
+  },
+  {
+    "slug": "sandstone",
+    "fr_name": "Grès poli",
+    "id": "24",
+    "meta": "2",
+    "img": "smooth_sandstone.png"
+  },
+  {
+    "slug": "noteblock",
+    "fr_name": "Bloc musical",
+    "id": "25",
+    "meta": "0",
+    "img": "note_block.png"
+  },
+  {
+    "slug": "golden_rail",
+    "fr_name": "Rails de propulsion",
+    "id": "27",
+    "meta": "0",
+    "img": "powered_rails.png"
+  },
+  {
+    "slug": "detector_rail",
+    "fr_name": "Rails détecteurs",
+    "id": "28",
+    "meta": "0",
+    "img": "detector_rails.png"
+  },
+  {
+    "slug": "sticky_piston",
+    "fr_name": "Piston collant",
+    "id": "29",
+    "meta": "0",
+    "img": "sticky_piston.png"
+  },
+  {
+    "slug": "web",
+    "fr_name": "Toile d'araignée",
+    "id": "30",
+    "meta": "0",
+    "img": "cobweb.png"
+  },
+  {
+    "slug": "tallgrass",
+    "fr_name": "Herbe",
+    "id": "31",
+    "meta": "1",
+    "img": "grass.png"
+  },
+  {
+    "slug": "tallgrass",
+    "fr_name": "Fougère",
+    "id": "31",
+    "meta": "2",
+    "img": "fern.png"
+  },
+  {
+    "slug": "deadbush",
+    "fr_name": "Arbuste mort",
+    "id": "32",
+    "meta": "0",
+    "img": "dead_bush.png"
+  },
+  {
+    "slug": "piston",
+    "fr_name": "Piston",
+    "id": "33",
+    "meta": "0",
+    "img": "piston.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine",
+    "id": "35",
+    "meta": "0",
+    "img": "wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine orange",
+    "id": "35",
+    "meta": "1",
+    "img": "orange_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine magenta",
+    "id": "35",
+    "meta": "2",
+    "img": "magenta_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine bleu clair",
+    "id": "35",
+    "meta": "3",
+    "img": "light_blue_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine jaune",
+    "id": "35",
+    "meta": "4",
+    "img": "yellow_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine vert clair",
+    "id": "35",
+    "meta": "5",
+    "img": "lime_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine rose",
+    "id": "35",
+    "meta": "6",
+    "img": "pink_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine grise",
+    "id": "35",
+    "meta": "7",
+    "img": "gray_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine gris clair",
+    "id": "35",
+    "meta": "8",
+    "img": "light_gray_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine cyan",
+    "id": "35",
+    "meta": "9",
+    "img": "cyan_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine violette",
+    "id": "35",
+    "meta": "10",
+    "img": "purple_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine bleue",
+    "id": "35",
+    "meta": "11",
+    "img": "blue_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine marron",
+    "id": "35",
+    "meta": "12",
+    "img": "brown_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine verte",
+    "id": "35",
+    "meta": "13",
+    "img": "green_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine rouge",
+    "id": "35",
+    "meta": "14",
+    "img": "red_wool.png"
+  },
+  {
+    "slug": "wool",
+    "fr_name": "Laine noire",
+    "id": "35",
+    "meta": "15",
+    "img": "black_wool.png"
+  },
+  {
+    "slug": "yellow_flower",
+    "fr_name": "Pissenlit",
+    "id": "37",
+    "meta": "0",
+    "img": "dandelion.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Coquelicot",
+    "id": "38",
+    "meta": "0",
+    "img": "poppy.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Orchidée bleue",
+    "id": "38",
+    "meta": "1",
+    "img": "blue_orchid.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Allium",
+    "id": "38",
+    "meta": "2",
+    "img": "allium.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Houstonie bleue",
+    "id": "38",
+    "meta": "3",
+    "img": "azure_bluet.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Tulipe rouge",
+    "id": "38",
+    "meta": "4",
+    "img": "red_tulip.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Tulipe orange",
+    "id": "38",
+    "meta": "5",
+    "img": "orange_tulip.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Tulipe blanche",
+    "id": "38",
+    "meta": "6",
+    "img": "white_tulip.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Tulipe rose",
+    "id": "38",
+    "meta": "7",
+    "img": "pink_tulip.png"
+  },
+  {
+    "slug": "red_flower",
+    "fr_name": "Marguerite",
+    "id": "38",
+    "meta": "8",
+    "img": "oxeye_daisy.png"
+  },
+  {
+    "slug": "brown_mushroom",
+    "fr_name": "Champignon marron",
+    "id": "39",
+    "meta": "0",
+    "img": "mushroom_brown.png"
+  },
+  {
+    "slug": "red_mushroom",
+    "fr_name": "Champignon rouge",
+    "id": "40",
+    "meta": "0",
+    "img": "mushroom_red.png"
+  },
+  {
+    "slug": "gold_block",
+    "fr_name": "Bloc d'or",
+    "id": "41",
+    "meta": "0",
+    "img": "gold_block.png"
+  },
+  {
+    "slug": "iron_block",
+    "fr_name": "Bloc de fer",
+    "id": "42",
+    "meta": "0",
+    "img": "iron_block.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle en pierre",
+    "id": "44",
+    "meta": "0",
+    "img": "stone_slab.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle en grès",
+    "id": "44",
+    "meta": "1",
+    "img": "sandstone_slab.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle de pierres",
+    "id": "44",
+    "meta": "3",
+    "img": "cobblestone_slab.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle en briques",
+    "id": "44",
+    "meta": "4",
+    "img": "bricks_slab.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle en pierre taillée",
+    "id": "44",
+    "meta": "5",
+    "img": "stone_bricks_slab.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle en briques du Nether",
+    "id": "44",
+    "meta": "6",
+    "img": "nether_brick_slab.png"
+  },
+  {
+    "slug": "stone_slab",
+    "fr_name": "Dalle de quartz",
+    "id": "44",
+    "meta": "7",
+    "img": "quartz_slab.png"
+  },
+  {
+    "slug": "brick_block",
+    "fr_name": "Briques",
+    "id": "45",
+    "meta": "0",
+    "img": "bricks.png"
+  },
+  {
+    "slug": "tnt",
+    "fr_name": "TNT",
+    "id": "46",
+    "meta": "0",
+    "img": "tnt.png"
+  },
+  {
+    "slug": "bookshelf",
+    "fr_name": "Bibliothèque",
+    "id": "47",
+    "meta": "0",
+    "img": "bookshelf.png"
+  },
+  {
+    "slug": "mossy_cobblestone",
+    "fr_name": "Pierres moussues",
+    "id": "48",
+    "meta": "0",
+    "img": "moss_stone.png"
+  },
+  {
+    "slug": "obsidian",
+    "fr_name": "Obsidienne",
+    "id": "49",
+    "meta": "0",
+    "img": "obsidian.png"
+  },
+  {
+    "slug": "torch",
+    "fr_name": "Torche",
+    "id": "50",
+    "meta": "0",
+    "img": "torch.png"
+  },
+  {
+    "slug": "mob_spawner",
+    "fr_name": "Générateur de monstres",
+    "id": "52",
+    "meta": "0",
+    "img": "mob_spawner.png"
+  },
+  {
+    "slug": "oak_stairs",
+    "fr_name": "Escaliers en bois de chêne",
+    "id": "53",
+    "meta": "0",
+    "img": "oak_wood_stairs.png"
+  },
+  {
+    "slug": "chest",
+    "fr_name": "Coffre",
+    "id": "54",
+    "meta": "0",
+    "img": "chest.png"
+  },
+  {
+    "slug": "diamond_ore",
+    "fr_name": "Minerai de diamant",
+    "id": "56",
+    "meta": "0",
+    "img": "diamond_ore.png"
+  },
+  {
+    "slug": "diamond_block",
+    "fr_name": "Bloc de diamant",
+    "id": "57",
+    "meta": "0",
+    "img": "diamond_block.png"
+  },
+  {
+    "slug": "crafting_table",
+    "fr_name": "Établi",
+    "id": "58",
+    "meta": "0",
+    "img": "crafting_table.png"
+  },
+  {
+    "slug": "farmland",
+    "fr_name": "Terre labourée",
+    "id": "60",
+    "meta": "0",
+    "img": "farmland.png"
+  },
+  {
+    "slug": "furnace",
+    "fr_name": "Fourneau",
+    "id": "61",
+    "meta": "0",
+    "img": "furnace.png"
+  },
+  {
+    "slug": "ladder",
+    "fr_name": "Échelle",
+    "id": "65",
+    "meta": "0",
+    "img": "ladder.png"
+  },
+  {
+    "slug": "rail",
+    "fr_name": "Rails",
+    "id": "66",
+    "meta": "0",
+    "img": "rails.png"
+  },
+  {
+    "slug": "stone_stairs",
+    "fr_name": "Escaliers en pierre",
+    "id": "67",
+    "meta": "0",
+    "img": "cobblestone_stairs.png"
+  },
+  {
+    "slug": "lever",
+    "fr_name": "Levier",
+    "id": "69",
+    "meta": "0",
+    "img": "lever.png"
+  },
+  {
+    "slug": "stone_pressure_plate",
+    "fr_name": "Plaque de pression en pierre",
+    "id": "70",
+    "meta": "0",
+    "img": "stone_pressure_plate.png"
+  },
+  {
+    "slug": "wooden_pressure_plate",
+    "fr_name": "Plaque de pression en bois",
+    "id": "72",
+    "meta": "0",
+    "img": "wooden_pressure_plate.png"
+  },
+  {
+    "slug": "redstone_ore",
+    "fr_name": "Minerai de redstone",
+    "id": "73",
+    "meta": "0",
+    "img": "redstone_ore.png"
+  },
+  {
+    "slug": "redstone_torch",
+    "fr_name": "Torche de redstone",
+    "id": "76",
+    "meta": "0",
+    "img": "redstone_torch.png"
+  },
+  {
+    "slug": "stone_button",
+    "fr_name": "Bouton en pierre",
+    "id": "77",
+    "meta": "0",
+    "img": "button_stone.png"
+  },
+  {
+    "slug": "snow_layer",
+    "fr_name": "Neige",
+    "id": "78",
+    "meta": "0",
+    "img": "snow.png"
+  },
+  {
+    "slug": "ice",
+    "fr_name": "Glace",
+    "id": "79",
+    "meta": "0",
+    "img": "ice.png"
+  },
+  {
+    "slug": "snow",
+    "fr_name": "Neige",
+    "id": "80",
+    "meta": "0",
+    "img": "snow.png"
+  },
+  {
+    "slug": "cactus",
+    "fr_name": "Cactus",
+    "id": "81",
+    "meta": "0",
+    "img": "cactus.png"
+  },
+  {
+    "slug": "clay",
+    "fr_name": "Bloc d'argile",
+    "id": "82",
+    "meta": "0",
+    "img": "clay_block.png"
+  },
+  {
+    "slug": "jukebox",
+    "fr_name": "Jukebox",
+    "id": "84",
+    "meta": "0",
+    "img": "jukebox.png"
+  },
+  {
+    "slug": "fence",
+    "fr_name": "Barrière en bois de chêne",
+    "id": "85",
+    "meta": "0",
+    "img": "oak_fence.png"
+  },
+  {
+    "slug": "pumpkin",
+    "fr_name": "Citrouille",
+    "id": "86",
+    "meta": "0",
+    "img": "pumpkin.png"
+  },
+  {
+    "slug": "netherrack",
+    "fr_name": "Netherrack",
+    "id": "87",
+    "meta": "0",
+    "img": "netherrack.png"
+  },
+  {
+    "slug": "soul_sand",
+    "fr_name": "Sable des âmes",
+    "id": "88",
+    "meta": "0",
+    "img": "soul_sand.png"
+  },
+  {
+    "slug": "glowstone",
+    "fr_name": "Pierre lumineuse",
+    "id": "89",
+    "meta": "0",
+    "img": "glowstone.png"
+  },
+  {
+    "slug": "lit_pumpkin",
+    "fr_name": "Citrouille-lanterne",
+    "id": "91",
+    "meta": "0",
+    "img": "jack_o_lantern.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre blanc",
+    "id": "95",
+    "meta": "0",
+    "img": "white_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre orange",
+    "id": "95",
+    "meta": "1",
+    "img": "orange_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre magenta",
+    "id": "95",
+    "meta": "2",
+    "img": "magenta_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre bleu clair",
+    "id": "95",
+    "meta": "3",
+    "img": "light_blue_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre jaune",
+    "id": "95",
+    "meta": "4",
+    "img": "yellow_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre vert clair",
+    "id": "95",
+    "meta": "5",
+    "img": "lime_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre rose",
+    "id": "95",
+    "meta": "6",
+    "img": "pink_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre gris",
+    "id": "95",
+    "meta": "7",
+    "img": "gray_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre gris clair",
+    "id": "95",
+    "meta": "8",
+    "img": "light_gray_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre cyan",
+    "id": "95",
+    "meta": "9",
+    "img": "cyan_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre violet",
+    "id": "95",
+    "meta": "10",
+    "img": "purple_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre bleu",
+    "id": "95",
+    "meta": "11",
+    "img": "blue_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre marron",
+    "id": "95",
+    "meta": "12",
+    "img": "brown_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre vert",
+    "id": "95",
+    "meta": "13",
+    "img": "green_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre rouge",
+    "id": "95",
+    "meta": "14",
+    "img": "red_stained_glass.png"
+  },
+  {
+    "slug": "stained_glass",
+    "fr_name": "Verre noir",
+    "id": "95",
+    "meta": "15",
+    "img": "black_stained_glass.png"
+  },
+  {
+    "slug": "trapdoor",
+    "fr_name": "Trappe en bois",
+    "id": "96",
+    "meta": "0",
+    "img": "trapdoor.png"
+  },
+  {
+    "slug": "stonebrick",
+    "fr_name": "Pierre taillée",
+    "id": "98",
+    "meta": "0",
+    "img": "stone_bricks.png"
+  },
+  {
+    "slug": "stonebrick",
+    "fr_name": "Pierre taillée moussue",
+    "id": "98",
+    "meta": "1",
+    "img": "mossy_stone_bricks.png"
+  },
+  {
+    "slug": "stonebrick",
+    "fr_name": "Pierre taillée craquelée",
+    "id": "98",
+    "meta": "2",
+    "img": "cracked_stone_bricks.png"
+  },
+  {
+    "slug": "stonebrick",
+    "fr_name": "Pierre sculptée",
+    "id": "98",
+    "meta": "3",
+    "img": "chiseled_stone_bricks.png"
+  },
+  {
+    "slug": "brown_mushroom_block",
+    "fr_name": "Bloc de champignon marron",
+    "id": "99",
+    "meta": "0",
+    "img": "brown_mushroom_block.png"
+  },
+  {
+    "slug": "red_mushroom_block",
+    "fr_name": "Bloc de champignon rouge",
+    "id": "100",
+    "meta": "0",
+    "img": "red_mushroom_block.png"
+  },
+  {
+    "slug": "iron_bars",
+    "fr_name": "Barreaux de fer",
+    "id": "101",
+    "meta": "0",
+    "img": "iron_bars.png"
+  },
+  {
+    "slug": "glass_pane",
+    "fr_name": "Vitre",
+    "id": "102",
+    "meta": "0",
+    "img": "glass_pane.png"
+  },
+  {
+    "slug": "melon_block",
+    "fr_name": "Bloc de Melon",
+    "id": "103",
+    "meta": "0",
+    "img": "melon.png"
+  },
+  {
+    "slug": "vine",
+    "fr_name": "Lianes",
+    "id": "106",
+    "meta": "0",
+    "img": "vines.png"
+  },
+  {
+    "slug": "fence_gate",
+    "fr_name": "Portillon en bois de chêne",
+    "id": "107",
+    "meta": "0",
+    "img": "oak_fence_gate.png"
+  },
+  {
+    "slug": "brick_stairs",
+    "fr_name": "Escaliers en briques",
+    "id": "108",
+    "meta": "0",
+    "img": "brick_stairs.png"
+  },
+  {
+    "slug": "stone_brick_stairs",
+    "fr_name": "Escaliers en pierre taillée",
+    "id": "109",
+    "meta": "0",
+    "img": "stone_brick_stairs.png"
+  },
+  {
+    "slug": "mycelium",
+    "fr_name": "Mycélium",
+    "id": "110",
+    "meta": "0",
+    "img": "mycelium.png"
+  },
+  {
+    "slug": "waterlily",
+    "fr_name": "Nénuphar",
+    "id": "111",
+    "meta": "0",
+    "img": "lily_pad.png"
+  },
+  {
+    "slug": "nether_brick",
+    "fr_name": "Bloc de brique du Nether",
+    "id": "112",
+    "meta": "0",
+    "img": "nether_brick.png"
+  },
+  {
+    "slug": "nether_brick_fence",
+    "fr_name": "Barrière en briques du Nether",
+    "id": "113",
+    "meta": "0",
+    "img": "nether_brick_fence.png"
+  },
+  {
+    "slug": "nether_brick_stairs",
+    "fr_name": "Escaliers en briques du Nether",
+    "id": "114",
+    "meta": "0",
+    "img": "nether_brick_stairs.png"
+  },
+  {
+    "slug": "enchanting_table",
+    "fr_name": "Table d'enchantement",
+    "id": "116",
+    "meta": "0",
+    "img": "enchantment_table.png"
+  },
+  {
+    "slug": "end_portal_frame",
+    "fr_name": "Portail de l'End",
+    "id": "120",
+    "meta": "0",
+    "img": "end_portal.png"
+  },
+  {
+    "slug": "end_stone",
+    "fr_name": "Pierre de l'End",
+    "id": "121",
+    "meta": "0",
+    "img": "end_stone.png"
+  },
+  {
+    "slug": "dragon_egg",
+    "fr_name": "Oeuf de dragon",
+    "id": "122",
+    "meta": "0",
+    "img": "dragon_egg.png"
+  },
+  {
+    "slug": "redstone_lamp",
+    "fr_name": "Lampe à redstone",
+    "id": "123",
+    "meta": "0",
+    "img": "redstone_lamp.png"
+  },
+  {
+    "slug": "wooden_slab",
+    "fr_name": "Dalle en bois de chêne",
+    "id": "126",
+    "meta": "0",
+    "img": "oak_wood_slab.png"
+  },
+  {
+    "slug": "wooden_slab",
+    "fr_name": "Dalle en bois de sapin",
+    "id": "126",
+    "meta": "1",
+    "img": "spruce_wood_slab.png"
+  },
+  {
+    "slug": "wooden_slab",
+    "fr_name": "Dalle en bois de bouleau",
+    "id": "126",
+    "meta": "2",
+    "img": "birch_wood_slab.png"
+  },
+  {
+    "slug": "wooden_slab",
+    "fr_name": "Dalle en bois d'acajou",
+    "id": "126",
+    "meta": "3",
+    "img": "jungle_wood_slab.png"
+  },
+  {
+    "slug": "wooden_slab",
+    "fr_name": "Dalle en bois d'acacia",
+    "id": "126",
+    "meta": "4",
+    "img": "acacia_wood_slab.png"
+  },
+  {
+    "slug": "wooden_slab",
+    "fr_name": "Dalle en bois de chêne noir",
+    "id": "126",
+    "meta": "5",
+    "img": "dark_oak_wood_slab.png"
+  },
+  {
+    "slug": "sandstone_stairs",
+    "fr_name": "Escaliers en grès",
+    "id": "128",
+    "meta": "0",
+    "img": "sandstone_stairs.png"
+  },
+  {
+    "slug": "emerald_ore",
+    "fr_name": "Minerai d'émeraude",
+    "id": "129",
+    "meta": "0",
+    "img": "emerald_ore.png"
+  },
+  {
+    "slug": "ender_chest",
+    "fr_name": "Coffre de l'Ender",
+    "id": "130",
+    "meta": "0",
+    "img": "ender_chest.png"
+  },
+  {
+    "slug": "tripwire_hook",
+    "fr_name": "Crochet",
+    "id": "131",
+    "meta": "0",
+    "img": "tripwire_hook.png"
+  },
+  {
+    "slug": "emerald_block",
+    "fr_name": "Bloc d'émeraude",
+    "id": "133",
+    "meta": "0",
+    "img": "emerald_block.png"
+  },
+  {
+    "slug": "spruce_stairs",
+    "fr_name": "Escaliers en bois de sapin",
+    "id": "134",
+    "meta": "0",
+    "img": "spruce_wood_stairs.png"
+  },
+  {
+    "slug": "birch_stairs",
+    "fr_name": "Escaliers en bois de bouleau",
+    "id": "135",
+    "meta": "0",
+    "img": "birch_wood_stairs.png"
+  },
+  {
+    "slug": "jungle_stairs",
+    "fr_name": "Escaliers en bois d'acajou",
+    "id": "136",
+    "meta": "0",
+    "img": "jungle_wood_stairs.png"
+  },
+  {
+    "slug": "command_block",
+    "fr_name": "Bloc de commande",
+    "id": "137",
+    "meta": "0",
+    "img": "command_block.png"
+  },
+  {
+    "slug": "beacon",
+    "fr_name": "Balise",
+    "id": "138",
+    "meta": "0",
+    "img": "beacon.png"
+  },
+  {
+    "slug": "cobblestone_wall",
+    "fr_name": "Muret",
+    "id": "139",
+    "meta": "0",
+    "img": "cobblestone_wall.png"
+  },
+  {
+    "slug": "cobblestone_wall",
+    "fr_name": "Muret de pierres moussues",
+    "id": "139",
+    "meta": "1",
+    "img": "mossy_cobblestone_wall.png"
+  },
+  {
+    "slug": "wooden_button",
+    "fr_name": "Bouton en bois",
+    "id": "143",
+    "meta": "0",
+    "img": "button.png"
+  },
+  {
+    "slug": "anvil",
+    "fr_name": "Enclume",
+    "id": "145",
+    "meta": "0",
+    "img": "anvil.png"
+  },
+  {
+    "slug": "anvil",
+    "fr_name": "Enclume légèrement endommagée",
+    "id": "145",
+    "meta": "1",
+    "img": "slightly_damaged_anvil.png"
+  },
+  {
+    "slug": "anvil",
+    "fr_name": "Enclume très endommagée",
+    "id": "145",
+    "meta": "2",
+    "img": "very_damaged_anvil.png"
+  },
+  {
+    "slug": "trapped_chest",
+    "fr_name": "Coffre piégé",
+    "id": "146",
+    "meta": "0",
+    "img": "trapped_chest.png"
+  },
+  {
+    "slug": "light_weighted_pressure_plate",
+    "fr_name": "Plaque de pression pondérée (léger)",
+    "id": "147",
+    "meta": "0",
+    "img": "light_weighted_pressure_plate.png"
+  },
+  {
+    "slug": "heavy_weighted_pressure_plate",
+    "fr_name": "Plaque de pression pondérée (lourd)",
+    "id": "148",
+    "meta": "0",
+    "img": "heavy_weighted_pressure_plate.png"
+  },
+  {
+    "slug": "daylight_detector",
+    "fr_name": "Capteur de lumière du jour",
+    "id": "151",
+    "meta": "0",
+    "img": "daylight_sensor.png"
+  },
+  {
+    "slug": "redstone_block",
+    "fr_name": "Bloc de redstone",
+    "id": "152",
+    "meta": "0",
+    "img": "redstone_block.png"
+  },
+  {
+    "slug": "quartz_ore",
+    "fr_name": "Minerai de quartz du Nether",
+    "id": "153",
+    "meta": "0",
+    "img": "nether_quartz_ore.png"
+  },
+  {
+    "slug": "hopper",
+    "fr_name": "Entonnoir",
+    "id": "154",
+    "meta": "0",
+    "img": "hopper.png"
+  },
+  {
+    "slug": "quartz_block",
+    "fr_name": "Bloc de quartz",
+    "id": "155",
+    "meta": "0",
+    "img": "quartz_block.png"
+  },
+  {
+    "slug": "quartz_block",
+    "fr_name": "Bloc de quartz sculpté",
+    "id": "155",
+    "meta": "1",
+    "img": "chiseled_quartz_block.png"
+  },
+  {
+    "slug": "quartz_block",
+    "fr_name": "Bloc de quartz rayé",
+    "id": "155",
+    "meta": "2",
+    "img": "pillar_quartz_block.png"
+  },
+  {
+    "slug": "quartz_stairs",
+    "fr_name": "Escaliers en quartz",
+    "id": "156",
+    "meta": "0",
+    "img": "quartz_stairs.png"
+  },
+  {
+    "slug": "activator_rail",
+    "fr_name": "Rails déclencheurs",
+    "id": "157",
+    "meta": "0",
+    "img": "activator_rails.png"
+  },
+  {
+    "slug": "dropper",
+    "fr_name": "Dropper",
+    "id": "158",
+    "meta": "0",
+    "img": "dropper.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite blanche",
+    "id": "159",
+    "meta": "0",
+    "img": "white_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite orange",
+    "id": "159",
+    "meta": "1",
+    "img": "orange_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite magenta",
+    "id": "159",
+    "meta": "2",
+    "img": "magenta_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite bleu clair",
+    "id": "159",
+    "meta": "3",
+    "img": "light_blue_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite jaune",
+    "id": "159",
+    "meta": "4",
+    "img": "yellow_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite vert clair",
+    "id": "159",
+    "meta": "5",
+    "img": "lime_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite rose",
+    "id": "159",
+    "meta": "6",
+    "img": "pink_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite grise",
+    "id": "159",
+    "meta": "7",
+    "img": "gray_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite gris clair",
+    "id": "159",
+    "meta": "8",
+    "img": "light_gray_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite cyan",
+    "id": "159",
+    "meta": "9",
+    "img": "cyan_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite violette",
+    "id": "159",
+    "meta": "10",
+    "img": "purple_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite bleue",
+    "id": "159",
+    "meta": "11",
+    "img": "blue_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite marron",
+    "id": "159",
+    "meta": "12",
+    "img": "brown_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite verte",
+    "id": "159",
+    "meta": "13",
+    "img": "green_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite rouge",
+    "id": "159",
+    "meta": "14",
+    "img": "red_stained_clay.png"
+  },
+  {
+    "slug": "stained_hardened_clay",
+    "fr_name": "Terre cuite noire",
+    "id": "159",
+    "meta": "15",
+    "img": "black_stained_clay.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre blanche",
+    "id": "160",
+    "meta": "0",
+    "img": "white_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre orange",
+    "id": "160",
+    "meta": "1",
+    "img": "orange_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre magenta",
+    "id": "160",
+    "meta": "2",
+    "img": "magenta_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre bleu clair",
+    "id": "160",
+    "meta": "3",
+    "img": "light_blue_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre jaune",
+    "id": "160",
+    "meta": "4",
+    "img": "yellow_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre vert clair",
+    "id": "160",
+    "meta": "5",
+    "img": "lime_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre rose",
+    "id": "160",
+    "meta": "6",
+    "img": "pink_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre grise",
+    "id": "160",
+    "meta": "7",
+    "img": "gray_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre gris clair",
+    "id": "160",
+    "meta": "8",
+    "img": "light_gray_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre cyan",
+    "id": "160",
+    "meta": "9",
+    "img": "cyan_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre violette",
+    "id": "160",
+    "meta": "10",
+    "img": "purple_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre bleue",
+    "id": "160",
+    "meta": "11",
+    "img": "blue_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre marron",
+    "id": "160",
+    "meta": "12",
+    "img": "brown_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre verte",
+    "id": "160",
+    "meta": "13",
+    "img": "green_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre rouge",
+    "id": "160",
+    "meta": "14",
+    "img": "red_stained_glass_pane.png"
+  },
+  {
+    "slug": "stained_glass_pane",
+    "fr_name": "Vitre noire",
+    "id": "160",
+    "meta": "15",
+    "img": "black_stained_glass_pane.png"
+  },
+  {
+    "slug": "leaves2",
+    "fr_name": "Feuilles d'acacia",
+    "id": "161",
+    "meta": "0",
+    "img": "acacia_leaves.png"
+  },
+  {
+    "slug": "leaves2",
+    "fr_name": "Feuilles de chêne noir",
+    "id": "161",
+    "meta": "1",
+    "img": "dark_oak_leaves.png"
+  },
+  {
+    "slug": "log2",
+    "fr_name": "Bois d'acacia",
+    "id": "162",
+    "meta": "0",
+    "img": "acacia_wood.png"
+  },
+  {
+    "slug": "log2",
+    "fr_name": "Bois de chêne noir",
+    "id": "162",
+    "meta": "1",
+    "img": "dark_oak_wood.png"
+  },
+  {
+    "slug": "acacia_stairs",
+    "fr_name": "Escaliers en bois d'acacia",
+    "id": "163",
+    "meta": "0",
+    "img": "acacia_wood_stairs.png"
+  },
+  {
+    "slug": "dark_oak_stairs",
+    "fr_name": "Escaliers en bois de chêne noir",
+    "id": "164",
+    "meta": "0",
+    "img": "dark_oak_wood_stairs.png"
+  },
+  {
+    "slug": "slime",
+    "fr_name": "Bloc de Slime",
+    "id": "165",
+    "meta": "0",
+    "img": "slime_block.png"
+  },
+  {
+    "slug": "barrier",
+    "fr_name": "Barrière invisible",
+    "id": "166",
+    "meta": "0",
+    "img": "barrier.png"
+  },
+  {
+    "slug": "iron_trapdoor",
+    "fr_name": "Trappe en fer",
+    "id": "167",
+    "meta": "0",
+    "img": "iron_trapdoor.png"
+  },
+  {
+    "slug": "prismarine",
+    "fr_name": "Prismarine",
+    "id": "168",
+    "meta": "0",
+    "img": "prismarine.png"
+  },
+  {
+    "slug": "prismarine",
+    "fr_name": "Prismarine taillée",
+    "id": "168",
+    "meta": "1",
+    "img": "prismarine_bricks.png"
+  },
+  {
+    "slug": "prismarine",
+    "fr_name": "Prismarine sombre",
+    "id": "168",
+    "meta": "2",
+    "img": "dark_prismarine.png"
+  },
+  {
+    "slug": "sea_lantern",
+    "fr_name": "Lanterne aquatique",
+    "id": "169",
+    "meta": "0",
+    "img": "sea_lantern.png"
+  },
+  {
+    "slug": "hay_block",
+    "fr_name": "Bloc de paille",
+    "id": "170",
+    "meta": "0",
+    "img": "hay_bale.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis blanc",
+    "id": "171",
+    "meta": "0",
+    "img": "carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis orange",
+    "id": "171",
+    "meta": "1",
+    "img": "orange_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis magenta",
+    "id": "171",
+    "meta": "2",
+    "img": "magenta_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis bleu clair",
+    "id": "171",
+    "meta": "3",
+    "img": "light_blue_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis jaune",
+    "id": "171",
+    "meta": "4",
+    "img": "yellow_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis vert clair",
+    "id": "171",
+    "meta": "5",
+    "img": "lime_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis rose",
+    "id": "171",
+    "meta": "6",
+    "img": "pink_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis gris",
+    "id": "171",
+    "meta": "7",
+    "img": "gray_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis gris clair",
+    "id": "171",
+    "meta": "8",
+    "img": "light_gray_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis cyan",
+    "id": "171",
+    "meta": "9",
+    "img": "cyan_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis violet",
+    "id": "171",
+    "meta": "10",
+    "img": "purple_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis bleu",
+    "id": "171",
+    "meta": "11",
+    "img": "blue_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis marron",
+    "id": "171",
+    "meta": "12",
+    "img": "brown_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis vert",
+    "id": "171",
+    "meta": "13",
+    "img": "green_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis rouge",
+    "id": "171",
+    "meta": "14",
+    "img": "red_carpet.png"
+  },
+  {
+    "slug": "carpet",
+    "fr_name": "Tapis noir",
+    "id": "171",
+    "meta": "15",
+    "img": "black_carpet.png"
+  },
+  {
+    "slug": "hardened_clay",
+    "fr_name": "Terre cuite",
+    "id": "172",
+    "meta": "0",
+    "img": "hardened_clay.png"
+  },
+  {
+    "slug": "coal_block",
+    "fr_name": "Bloc de charbon",
+    "id": "173",
+    "meta": "0",
+    "img": "coal_block.png"
+  },
+  {
+    "slug": "packed_ice",
+    "fr_name": "Glace compactée",
+    "id": "174",
+    "meta": "0",
+    "img": "packed_ice.png"
+  },
+  {
+    "slug": "double_plant",
+    "fr_name": "Tournesol",
+    "id": "175",
+    "meta": "0",
+    "img": "sunflower.png"
+  },
+  {
+    "slug": "double_plant",
+    "fr_name": "Lilas",
+    "id": "175",
+    "meta": "1",
+    "img": "lilac.png"
+  },
+  {
+    "slug": "double_plant",
+    "fr_name": "Très hautes herbes",
+    "id": "175",
+    "meta": "2",
+    "img": "double_tallgrass.png"
+  },
+  {
+    "slug": "double_plant",
+    "fr_name": "Grande fougère",
+    "id": "175",
+    "meta": "3",
+    "img": "large_fern.png"
+  },
+  {
+    "slug": "double_plant",
+    "fr_name": "Rosier",
+    "id": "175",
+    "meta": "4",
+    "img": "rose_bush.png"
+  },
+  {
+    "slug": "double_plant",
+    "fr_name": "Pivoine",
+    "id": "175",
+    "meta": "5",
+    "img": "peony.png"
+  },
+  {
+    "slug": "red_sandstone",
+    "fr_name": "Grès rouge",
+    "id": "179",
+    "meta": "0",
+    "img": "red_sandstone.png"
+  },
+  {
+    "slug": "red_sandstone",
+    "fr_name": "Grès rouge sculpté",
+    "id": "179",
+    "meta": "1",
+    "img": "chiseled_red_sandstone.png"
+  },
+  {
+    "slug": "red_sandstone",
+    "fr_name": "Grès rouge poli",
+    "id": "179",
+    "meta": "2",
+    "img": "smooth_red_sandstone.png"
+  },
+  {
+    "slug": "red_sandstone_stairs",
+    "fr_name": "Escaliers en grès rouge",
+    "id": "180",
+    "meta": "0",
+    "img": "red_sandstone_stairs.png"
+  },
+  {
+    "slug": "stone_slab2",
+    "fr_name": "Dalle en grès rouge",
+    "id": "182",
+    "meta": "0",
+    "img": "red_sandstone_slab.png"
+  },
+  {
+    "slug": "spruce_fence_gate",
+    "fr_name": "Portillon en bois de sapin",
+    "id": "183",
+    "meta": "0",
+    "img": "spruce_fence_gate.png"
+  },
+  {
+    "slug": "birch_fence_gate",
+    "fr_name": "Portillon en bois de bouleau",
+    "id": "184",
+    "meta": "0",
+    "img": "birch_fence_gate.png"
+  },
+  {
+    "slug": "jungle_fence_gate",
+    "fr_name": "Portillon en bois d'acajou",
+    "id": "185",
+    "meta": "0",
+    "img": "jungle_fence_gate.png"
+  },
+  {
+    "slug": "dark_oak_fence_gate",
+    "fr_name": "Portillon en bois de chêne noir",
+    "id": "186",
+    "meta": "0",
+    "img": "dark_oak_fence_gate.png"
+  },
+  {
+    "slug": "acacia_fence_gate",
+    "fr_name": "Portillon en bois d'acacia",
+    "id": "187",
+    "meta": "0",
+    "img": "acacia_fence_gate.png"
+  },
+  {
+    "slug": "spruce_fence",
+    "fr_name": "Barrière en bois de sapin",
+    "id": "188",
+    "meta": "0",
+    "img": "spruce_fence.png"
+  },
+  {
+    "slug": "birch_fence",
+    "fr_name": "Barrière en bois de bouleau",
+    "id": "189",
+    "meta": "0",
+    "img": "birch_fence.png"
+  },
+  {
+    "slug": "jungle_fence",
+    "fr_name": "Barrière en bois d'acajou",
+    "id": "190",
+    "meta": "0",
+    "img": "jungle_fence.png"
+  },
+  {
+    "slug": "dark_oak_fence",
+    "fr_name": "Barrière en bois de chêne noir",
+    "id": "191",
+    "meta": "0",
+    "img": "dark_oak_fence.png"
+  },
+  {
+    "slug": "acacia_fence",
+    "fr_name": "Barrière en bois d'acacia",
+    "id": "192",
+    "meta": "0",
+    "img": "acacia_fence.png"
+  },
+  {
+    "slug": "end_rod",
+    "fr_name": "Barre de l'End",
+    "id": "198",
+    "meta": "0",
+    "img": "end_rod.png"
+  },
+  {
+    "slug": "chorus_plant",
+    "fr_name": "Plante de chorus",
+    "id": "199",
+    "meta": "0",
+    "img": "chorus_plant.png"
+  },
+  {
+    "slug": "chorus_flower",
+    "fr_name": "Fleur de chorus",
+    "id": "200",
+    "meta": "0",
+    "img": "chorus_flower.png"
+  },
+  {
+    "slug": "purpur_block",
+    "fr_name": "Bloc de purpur",
+    "id": "201",
+    "meta": "0",
+    "img": "purpur_block.png"
+  },
+  {
+    "slug": "purpur_pillar",
+    "fr_name": "Bloc de purpur sculpté",
+    "id": "202",
+    "meta": "0",
+    "img": "purpur_pillar.png"
+  },
+  {
+    "slug": "purpur_stairs",
+    "fr_name": "Escaliers de purpur",
+    "id": "203",
+    "meta": "0",
+    "img": "purpur_stairs.png"
+  },
+  {
+    "slug": "purpur_slab",
+    "fr_name": "Dalle de purpur",
+    "id": "205",
+    "meta": "0",
+    "img": "purpur_slab.png"
+  },
+  {
+    "slug": "end_bricks",
+    "fr_name": "Briques de l'End",
+    "id": "206",
+    "meta": "0",
+    "img": "end_stone_bricks.png"
+  },
+  {
+    "slug": "grass_path",
+    "fr_name": "Chemin d'herbe",
+    "id": "208",
+    "meta": "0",
+    "img": "grass_path.png"
+  },
+  {
+    "slug": "repeating_command_block",
+    "fr_name": "Bloc de commande à répétition",
+    "id": "210",
+    "meta": "0",
+    "img": "repeating_command_block.png"
+  },
+  {
+    "slug": "chain_command_block",
+    "fr_name": "Bloc de commande en chaîne",
+    "id": "211",
+    "meta": "0",
+    "img": "chain_command_block.png"
+  },
+  {
+    "slug": "magma",
+    "fr_name": "Bloc de magma",
+    "id": "213",
+    "meta": "0",
+    "img": "magma_block.png"
+  },
+  {
+    "slug": "nether_wart_block",
+    "fr_name": "Bloc de verrues du Nether",
+    "id": "214",
+    "meta": "0",
+    "img": "nether_wart_block.png"
+  },
+  {
+    "slug": "red_nether_brick",
+    "fr_name": "Briques rouges du Nether",
+    "id": "215",
+    "meta": "0",
+    "img": "red_nether_brick.png"
+  },
+  {
+    "slug": "bone_block",
+    "fr_name": "Bloc d'os",
+    "id": "216",
+    "meta": "0",
+    "img": "bone_block.png"
+  },
+  {
+    "slug": "structure_void",
+    "fr_name": "Vide de structure",
+    "id": "217",
+    "meta": "0",
+    "img": "structure_void.png"
+  },
+  {
+    "slug": "observer",
+    "fr_name": "Observateur",
+    "id": "218",
+    "meta": "0",
+    "img": "observer.png"
+  },
+  {
+    "slug": "white_shulker_box",
+    "fr_name": "Boîte de Shulker blanche",
+    "id": "219",
+    "meta": "0",
+    "img": "white_shulker_box.png"
+  },
+  {
+    "slug": "orange_shulker_box",
+    "fr_name": "Boîte de Shulker orange",
+    "id": "220",
+    "meta": "0",
+    "img": "orange_shulker_box.png"
+  },
+  {
+    "slug": "magenta_shulker_box",
+    "fr_name": "Boîte de Shulker magenta",
+    "id": "221",
+    "meta": "0",
+    "img": "magenta_shulker_box.png"
+  },
+  {
+    "slug": "light_blue_shulker_box",
+    "fr_name": "Boîte de Shulker bleu clair",
+    "id": "222",
+    "meta": "0",
+    "img": "light_blue_shulker_box.png"
+  },
+  {
+    "slug": "yellow_shulker_box",
+    "fr_name": "Boîte de Shulker jaune",
+    "id": "223",
+    "meta": "0",
+    "img": "yellow_shulker_box.png"
+  },
+  {
+    "slug": "lime_shulker_box",
+    "fr_name": "Boîte de Shulker vert clair",
+    "id": "224",
+    "meta": "0",
+    "img": "lime_shulker_box.png"
+  },
+  {
+    "slug": "pink_shulker_box",
+    "fr_name": "Boîte de Shulker rose",
+    "id": "225",
+    "meta": "0",
+    "img": "pink_shulker_box.png"
+  },
+  {
+    "slug": "gray_shulker_box",
+    "fr_name": "Boîte de Shulker grise",
+    "id": "226",
+    "meta": "0",
+    "img": "gray_shulker_box.png"
+  },
+  {
+    "slug": "silver_shulker_box",
+    "fr_name": "Boîte de Shulker gris clair",
+    "id": "227",
+    "meta": "0",
+    "img": "light_gray_shulker_box.png"
+  },
+  {
+    "slug": "cyan_shulker_box",
+    "fr_name": "Boîte de Shulker cyan",
+    "id": "228",
+    "meta": "0",
+    "img": "cyan_shulker_box.png"
+  },
+  {
+    "slug": "purple_shulker_box",
+    "fr_name": "Boîte de Shulker violette",
+    "id": "229",
+    "meta": "0",
+    "img": "purple_shulker_box.png"
+  },
+  {
+    "slug": "blue_shulker_box",
+    "fr_name": "Boîte de Shulker bleue",
+    "id": "230",
+    "meta": "0",
+    "img": "blue_shulker_box.png"
+  },
+  {
+    "slug": "brown_shulker_box",
+    "fr_name": "Boîte de Shulker marron",
+    "id": "231",
+    "meta": "0",
+    "img": "brown_shulker_box.png"
+  },
+  {
+    "slug": "green_shulker_box",
+    "fr_name": "Boîte de Shulker verte",
+    "id": "232",
+    "meta": "0",
+    "img": "green_shulker_box.png"
+  },
+  {
+    "slug": "red_shulker_box",
+    "fr_name": "Boîte de Shulker rouge",
+    "id": "233",
+    "meta": "0",
+    "img": "red_shulker_box.png"
+  },
+  {
+    "slug": "black_shulker_box",
+    "fr_name": "Boîte de Shulker noire",
+    "id": "234",
+    "meta": "0",
+    "img": "black_shulker_box.png"
+  },
+  {
+    "slug": "white_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée blanche",
+    "id": "235",
+    "meta": "0",
+    "img": "white_glazed_terracotta.png"
+  },
+  {
+    "slug": "orange_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée orange",
+    "id": "236",
+    "meta": "0",
+    "img": "orange_glazed_terracotta.png"
+  },
+  {
+    "slug": "magenta_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée magenta",
+    "id": "237",
+    "meta": "0",
+    "img": "magenta_glazed_terracotta.png"
+  },
+  {
+    "slug": "light_blue_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée bleu clair",
+    "id": "238",
+    "meta": "0",
+    "img": "light_blue_glazed_terracotta.png"
+  },
+  {
+    "slug": "yellow_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée jaune",
+    "id": "239",
+    "meta": "0",
+    "img": "yellow_glazed_terracotta.png"
+  },
+  {
+    "slug": "lime_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée vert clair",
+    "id": "240",
+    "meta": "0",
+    "img": "lime_glazed_terracotta.png"
+  },
+  {
+    "slug": "pink_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée rose",
+    "id": "241",
+    "meta": "0",
+    "img": "pink_glazed_terracotta.png"
+  },
+  {
+    "slug": "gray_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée grise",
+    "id": "242",
+    "meta": "0",
+    "img": "gray_glazed_terracotta.png"
+  },
+  {
+    "slug": "silver_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée gris clair",
+    "id": "243",
+    "meta": "0",
+    "img": "light_gray_glazed_terracotta.png"
+  },
+  {
+    "slug": "cyan_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée cyan",
+    "id": "244",
+    "meta": "0",
+    "img": "cyan_glazed_terracotta.png"
+  },
+  {
+    "slug": "purple_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée violette",
+    "id": "245",
+    "meta": "0",
+    "img": "purple_glazed_terracotta.png"
+  },
+  {
+    "slug": "blue_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée bleue",
+    "id": "246",
+    "meta": "0",
+    "img": "blue_glazed_terracotta.png"
+  },
+  {
+    "slug": "brown_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée marron",
+    "id": "247",
+    "meta": "0",
+    "img": "brown_glazed_terracotta.png"
+  },
+  {
+    "slug": "green_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée verte",
+    "id": "248",
+    "meta": "0",
+    "img": "green_glazed_terracotta.png"
+  },
+  {
+    "slug": "red_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée rouge",
+    "id": "249",
+    "meta": "0",
+    "img": "red_glazed_terracotta.png"
+  },
+  {
+    "slug": "black_glazed_terracotta",
+    "fr_name": "Terre cuite émaillée noire",
+    "id": "250",
+    "meta": "0",
+    "img": "black_glazed_terracotta.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton blanc",
+    "id": "251",
+    "meta": "0",
+    "img": "white_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton orange",
+    "id": "251",
+    "meta": "1",
+    "img": "orange_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton magenta",
+    "id": "251",
+    "meta": "2",
+    "img": "magenta_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton bleu clair",
+    "id": "251",
+    "meta": "3",
+    "img": "light_blue_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton jaune",
+    "id": "251",
+    "meta": "4",
+    "img": "yellow_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton vert clair",
+    "id": "251",
+    "meta": "5",
+    "img": "lime_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton rose",
+    "id": "251",
+    "meta": "6",
+    "img": "pink_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton gris",
+    "id": "251",
+    "meta": "7",
+    "img": "gray_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton gris clair",
+    "id": "251",
+    "meta": "8",
+    "img": "light_gray_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton cyan",
+    "id": "251",
+    "meta": "9",
+    "img": "cyan_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton violet",
+    "id": "251",
+    "meta": "10",
+    "img": "purple_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton bleu",
+    "id": "251",
+    "meta": "11",
+    "img": "blue_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton marron",
+    "id": "251",
+    "meta": "12",
+    "img": "brown_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton vert",
+    "id": "251",
+    "meta": "13",
+    "img": "green_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton rouge",
+    "id": "251",
+    "meta": "14",
+    "img": "red_concrete.png"
+  },
+  {
+    "slug": "concrete",
+    "fr_name": "Béton noir",
+    "id": "251",
+    "meta": "15",
+    "img": "black_concrete.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton blanc en poudre",
+    "id": "252",
+    "meta": "0",
+    "img": "white_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton orange en poudre",
+    "id": "252",
+    "meta": "1",
+    "img": "orange_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton magenta en poudre",
+    "id": "252",
+    "meta": "2",
+    "img": "magenta_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton bleu clair en poudre",
+    "id": "252",
+    "meta": "3",
+    "img": "light_blue_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton jaune en poudre",
+    "id": "252",
+    "meta": "4",
+    "img": "yellow_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton vert clair en poudre",
+    "id": "252",
+    "meta": "5",
+    "img": "lime_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton rose en poudre",
+    "id": "252",
+    "meta": "6",
+    "img": "pink_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton gris en poudre",
+    "id": "252",
+    "meta": "7",
+    "img": "gray_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton gris clair en poudre",
+    "id": "252",
+    "meta": "8",
+    "img": "light_gray_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton cyan en poudre",
+    "id": "252",
+    "meta": "9",
+    "img": "cyan_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton violet en poudre",
+    "id": "252",
+    "meta": "10",
+    "img": "purple_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton bleu en poudre",
+    "id": "252",
+    "meta": "11",
+    "img": "blue_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton marron en poudre",
+    "id": "252",
+    "meta": "12",
+    "img": "brown_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton vert en poudre",
+    "id": "252",
+    "meta": "13",
+    "img": "green_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton rouge en poudre",
+    "id": "252",
+    "meta": "14",
+    "img": "red_concrete_powder.png"
+  },
+  {
+    "slug": "concrete_powder",
+    "fr_name": "Béton noir en poudre",
+    "id": "252",
+    "meta": "15",
+    "img": "black_concrete_powder.png"
+  },
+  {
+    "slug": "structure_block",
+    "fr_name": "Bloc de structure",
+    "id": "255",
+    "meta": "0",
+    "img": "structure_block.png"
+  },
+  {
+    "slug": "iron_shovel",
+    "fr_name": "Pelle en fer",
+    "id": "256",
+    "meta": "0",
+    "img": "iron_shovel.png"
+  },
+  {
+    "slug": "iron_pickaxe",
+    "fr_name": "Pioche en fer",
+    "id": "257",
+    "meta": "0",
+    "img": "iron_pickaxe.png"
+  },
+  {
+    "slug": "iron_axe",
+    "fr_name": "Hache en fer",
+    "id": "258",
+    "meta": "0",
+    "img": "iron_axe.png"
+  },
+  {
+    "slug": "flint_and_steel",
+    "fr_name": "Briquet",
+    "id": "259",
+    "meta": "0",
+    "img": "flint_and_steel.png"
+  },
+  {
+    "slug": "apple",
+    "fr_name": "Pomme",
+    "id": "260",
+    "meta": "0",
+    "img": "apple.png"
+  },
+  {
+    "slug": "bow",
+    "fr_name": "Arc",
+    "id": "261",
+    "meta": "0",
+    "img": "bow.png"
+  },
+  {
+    "slug": "arrow",
+    "fr_name": "Flèche",
+    "id": "262",
+    "meta": "0",
+    "img": "arrow.png"
+  },
+  {
+    "slug": "coal",
+    "fr_name": "Charbon",
+    "id": "263",
+    "meta": "0",
+    "img": "coal.png"
+  },
+  {
+    "slug": "coal",
+    "fr_name": "Charbon de bois",
+    "id": "263",
+    "meta": "1",
+    "img": "charcoal.png"
+  },
+  {
+    "slug": "diamond",
+    "fr_name": "Diamant",
+    "id": "264",
+    "meta": "0",
+    "img": "diamond.png"
+  },
+  {
+    "slug": "iron_ingot",
+    "fr_name": "Lingot de fer",
+    "id": "265",
+    "meta": "0",
+    "img": "iron_ingot.png"
+  },
+  {
+    "slug": "gold_ingot",
+    "fr_name": "Lingot d'or",
+    "id": "266",
+    "meta": "0",
+    "img": "gold_ingot.png"
+  },
+  {
+    "slug": "iron_sword",
+    "fr_name": "Épée en fer",
+    "id": "267",
+    "meta": "0",
+    "img": "iron_sword.png"
+  },
+  {
+    "slug": "wooden_sword",
+    "fr_name": "Épée en bois",
+    "id": "268",
+    "meta": "0",
+    "img": "wooden_sword.png"
+  },
+  {
+    "slug": "wooden_shovel",
+    "fr_name": "Pelle en bois",
+    "id": "269",
+    "meta": "0",
+    "img": "wooden_shovel.png"
+  },
+  {
+    "slug": "wooden_pickaxe",
+    "fr_name": "Pioche en bois",
+    "id": "270",
+    "meta": "0",
+    "img": "wooden_pickaxe.png"
+  },
+  {
+    "slug": "wooden_axe",
+    "fr_name": "Hache en bois",
+    "id": "271",
+    "meta": "0",
+    "img": "wooden_axe.png"
+  },
+  {
+    "slug": "stone_sword",
+    "fr_name": "Épée en pierre",
+    "id": "272",
+    "meta": "0",
+    "img": "stone_sword.png"
+  },
+  {
+    "slug": "stone_shovel",
+    "fr_name": "Pelle en pierre",
+    "id": "273",
+    "meta": "0",
+    "img": "stone_shovel.png"
+  },
+  {
+    "slug": "stone_pickaxe",
+    "fr_name": "Pioche en pierre",
+    "id": "274",
+    "meta": "0",
+    "img": "stone_pickaxe.png"
+  },
+  {
+    "slug": "stone_axe",
+    "fr_name": "Hache en pierre",
+    "id": "275",
+    "meta": "0",
+    "img": "stone_axe.png"
+  },
+  {
+    "slug": "diamond_sword",
+    "fr_name": "Épée en diamant",
+    "id": "276",
+    "meta": "0",
+    "img": "diamond_sword.png"
+  },
+  {
+    "slug": "diamond_shovel",
+    "fr_name": "Pelle en diamant",
+    "id": "277",
+    "meta": "0",
+    "img": "diamond_shovel.png"
+  },
+  {
+    "slug": "diamond_pickaxe",
+    "fr_name": "Pioche en diamant",
+    "id": "278",
+    "meta": "0",
+    "img": "diamond_pickaxe.png"
+  },
+  {
+    "slug": "diamond_axe",
+    "fr_name": "Hache en diamant",
+    "id": "279",
+    "meta": "0",
+    "img": "diamond_axe.png"
+  },
+  {
+    "slug": "stick",
+    "fr_name": "Bâton",
+    "id": "280",
+    "meta": "0",
+    "img": "stick.png"
+  },
+  {
+    "slug": "bowl",
+    "fr_name": "Bol",
+    "id": "281",
+    "meta": "0",
+    "img": "bowl.png"
+  },
+  {
+    "slug": "mushroom_stew",
+    "fr_name": "Soupe de champignons",
+    "id": "282",
+    "meta": "0",
+    "img": "mushroom_stew.png"
+  },
+  {
+    "slug": "golden_sword",
+    "fr_name": "Épée en or",
+    "id": "283",
+    "meta": "0",
+    "img": "golden_sword.png"
+  },
+  {
+    "slug": "golden_shovel",
+    "fr_name": "Pelle en or",
+    "id": "284",
+    "meta": "0",
+    "img": "golden_shovel.png"
+  },
+  {
+    "slug": "golden_pickaxe",
+    "fr_name": "Pioche en or",
+    "id": "285",
+    "meta": "0",
+    "img": "golden_pickaxe.png"
+  },
+  {
+    "slug": "golden_axe",
+    "fr_name": "Hache en or",
+    "id": "286",
+    "meta": "0",
+    "img": "golden_axe.png"
+  },
+  {
+    "slug": "string",
+    "fr_name": "Ficelle",
+    "id": "287",
+    "meta": "0",
+    "img": "string.png"
+  },
+  {
+    "slug": "feather",
+    "fr_name": "Plume",
+    "id": "288",
+    "meta": "0",
+    "img": "feather.png"
+  },
+  {
+    "slug": "gunpowder",
+    "fr_name": "Poudre à canon",
+    "id": "289",
+    "meta": "0",
+    "img": "gunpowder.png"
+  },
+  {
+    "slug": "wooden_hoe",
+    "fr_name": "Houe en bois",
+    "id": "290",
+    "meta": "0",
+    "img": "wooden_hoe.png"
+  },
+  {
+    "slug": "stone_hoe",
+    "fr_name": "Houe en pierre",
+    "id": "291",
+    "meta": "0",
+    "img": "stone_hoe.png"
+  },
+  {
+    "slug": "iron_hoe",
+    "fr_name": "Houe en fer",
+    "id": "292",
+    "meta": "0",
+    "img": "iron_hoe.png"
+  },
+  {
+    "slug": "diamond_hoe",
+    "fr_name": "Houe en diamant",
+    "id": "293",
+    "meta": "0",
+    "img": "diamond_hoe.png"
+  },
+  {
+    "slug": "golden_hoe",
+    "fr_name": "Houe en or",
+    "id": "294",
+    "meta": "0",
+    "img": "golden_hoe.png"
+  },
+  {
+    "slug": "wheat_seeds",
+    "fr_name": "Graines de blé",
+    "id": "295",
+    "meta": "0",
+    "img": "seeds.png"
+  },
+  {
+    "slug": "wheat",
+    "fr_name": "Blé",
+    "id": "296",
+    "meta": "0",
+    "img": "wheat.png"
+  },
+  {
+    "slug": "bread",
+    "fr_name": "Pain",
+    "id": "297",
+    "meta": "0",
+    "img": "bread.png"
+  },
+  {
+    "slug": "leather_helmet",
+    "fr_name": "Chapeau en cuir",
+    "id": "298",
+    "meta": "0",
+    "img": "leather_cap.png"
+  },
+  {
+    "slug": "leather_chestplate",
+    "fr_name": "Tunique en cuir",
+    "id": "299",
+    "meta": "0",
+    "img": "leather_tunic.png"
+  },
+  {
+    "slug": "leather_leggings",
+    "fr_name": "Pantalon en cuir",
+    "id": "300",
+    "meta": "0",
+    "img": "leather_leggings.png"
+  },
+  {
+    "slug": "leather_boots",
+    "fr_name": "Bottes en cuir",
+    "id": "301",
+    "meta": "0",
+    "img": "leather_boots.png"
+  },
+  {
+    "slug": "chainmail_helmet",
+    "fr_name": "Casque de mailles",
+    "id": "302",
+    "meta": "0",
+    "img": "chain_helmet.png"
+  },
+  {
+    "slug": "chainmail_chestplate",
+    "fr_name": "Cotte de mailles",
+    "id": "303",
+    "meta": "0",
+    "img": "chain_chestplate.png"
+  },
+  {
+    "slug": "chainmail_leggings",
+    "fr_name": "Jambières de mailles",
+    "id": "304",
+    "meta": "0",
+    "img": "chain_leggings.png"
+  },
+  {
+    "slug": "chainmail_boots",
+    "fr_name": "Bottes de mailles",
+    "id": "305",
+    "meta": "0",
+    "img": "chain_boots.png"
+  },
+  {
+    "slug": "iron_helmet",
+    "fr_name": "Casque en fer",
+    "id": "306",
+    "meta": "0",
+    "img": "iron_helmet.png"
+  },
+  {
+    "slug": "iron_chestplate",
+    "fr_name": "Plastron en fer",
+    "id": "307",
+    "meta": "0",
+    "img": "iron_chestplate.png"
+  },
+  {
+    "slug": "iron_leggings",
+    "fr_name": "Jambières en fer",
+    "id": "308",
+    "meta": "0",
+    "img": "iron_leggings.png"
+  },
+  {
+    "slug": "iron_boots",
+    "fr_name": "Bottes en fer",
+    "id": "309",
+    "meta": "0",
+    "img": "iron_boots.png"
+  },
+  {
+    "slug": "diamond_helmet",
+    "fr_name": "Casque en diamant",
+    "id": "310",
+    "meta": "0",
+    "img": "diamond_helmet.png"
+  },
+  {
+    "slug": "diamond_chestplate",
+    "fr_name": "Plastron en diamant",
+    "id": "311",
+    "meta": "0",
+    "img": "diamond_chestplate.png"
+  },
+  {
+    "slug": "diamond_leggings",
+    "fr_name": "Jambières en diamant",
+    "id": "312",
+    "meta": "0",
+    "img": "diamond_leggings.png"
+  },
+  {
+    "slug": "diamond_boots",
+    "fr_name": "Bottes en diamant",
+    "id": "313",
+    "meta": "0",
+    "img": "diamond_boots.png"
+  },
+  {
+    "slug": "golden_helmet",
+    "fr_name": "Casque en or",
+    "id": "314",
+    "meta": "0",
+    "img": "golden_helmet.png"
+  },
+  {
+    "slug": "golden_chestplate",
+    "fr_name": "Plastron en or",
+    "id": "315",
+    "meta": "0",
+    "img": "golden_chestplate.png"
+  },
+  {
+    "slug": "golden_leggings",
+    "fr_name": "Jambières en or",
+    "id": "316",
+    "meta": "0",
+    "img": "golden_leggings.png"
+  },
+  {
+    "slug": "golden_boots",
+    "fr_name": "Bottes en or",
+    "id": "317",
+    "meta": "0",
+    "img": "golden_boots.png"
+  },
+  {
+    "slug": "flint",
+    "fr_name": "Silex",
+    "id": "318",
+    "meta": "0",
+    "img": "flint.png"
+  },
+  {
+    "slug": "porkchop",
+    "fr_name": "Côtelette de porc crue",
+    "id": "319",
+    "meta": "0",
+    "img": "raw_porkchop.png"
+  },
+  {
+    "slug": "cooked_porkchop",
+    "fr_name": "Côtelette de porc cuite",
+    "id": "320",
+    "meta": "0",
+    "img": "cooked_porkchop.png"
+  },
+  {
+    "slug": "painting",
+    "fr_name": "Tableau",
+    "id": "321",
+    "meta": "0",
+    "img": "painting.png"
+  },
+  {
+    "slug": "golden_apple",
+    "fr_name": "Pomme dorée",
+    "id": "322",
+    "meta": "0",
+    "img": "golden_apple.png"
+  },
+  {
+    "slug": "sign",
+    "fr_name": "Pancarte",
+    "id": "323",
+    "meta": "0",
+    "img": "sign.png"
+  },
+  {
+    "slug": "wooden_door",
+    "fr_name": "Porte en bois de chêne",
+    "id": "324",
+    "meta": "0",
+    "img": "oak_door.png"
+  },
+  {
+    "slug": "bucket",
+    "fr_name": "Seau",
+    "id": "325",
+    "meta": "0",
+    "img": "bucket.png"
+  },
+  {
+    "slug": "water_bucket",
+    "fr_name": "Seau d'eau",
+    "id": "326",
+    "meta": "0",
+    "img": "water_bucket.png"
+  },
+  {
+    "slug": "lava_bucket",
+    "fr_name": "Seau de lave",
+    "id": "327",
+    "meta": "0",
+    "img": "lava_bucket.png"
+  },
+  {
+    "slug": "minecart",
+    "fr_name": "Wagonnet",
+    "id": "328",
+    "meta": "0",
+    "img": "minecart.png"
+  },
+  {
+    "slug": "saddle",
+    "fr_name": "Selle",
+    "id": "329",
+    "meta": "0",
+    "img": "saddle.png"
+  },
+  {
+    "slug": "iron_door",
+    "fr_name": "Porte en fer",
+    "id": "330",
+    "meta": "0",
+    "img": "iron_door.png"
+  },
+  {
+    "slug": "redstone",
+    "fr_name": "Redstone",
+    "id": "331",
+    "meta": "0",
+    "img": "redstone.png"
+  },
+  {
+    "slug": "snowball",
+    "fr_name": "Boule de neige",
+    "id": "332",
+    "meta": "0",
+    "img": "snowball.png"
+  },
+  {
+    "slug": "boat",
+    "fr_name": "Bateau en bois de chêne",
+    "id": "333",
+    "meta": "0",
+    "img": "boat.png"
+  },
+  {
+    "slug": "leather",
+    "fr_name": "Cuir",
+    "id": "334",
+    "meta": "0",
+    "img": "leather.png"
+  },
+  {
+    "slug": "milk_bucket",
+    "fr_name": "Seau de lait",
+    "id": "335",
+    "meta": "0",
+    "img": "milk.png"
+  },
+  {
+    "slug": "brick",
+    "fr_name": "Brique",
+    "id": "336",
+    "meta": "0",
+    "img": "brick.png"
+  },
+  {
+    "slug": "clay_ball",
+    "fr_name": "Argile",
+    "id": "337",
+    "meta": "0",
+    "img": "clay.png"
+  },
+  {
+    "slug": "reeds",
+    "fr_name": "Canne à sucre",
+    "id": "338",
+    "meta": "0",
+    "img": "sugar_canes.png"
+  },
+  {
+    "slug": "paper",
+    "fr_name": "Papier",
+    "id": "339",
+    "meta": "0",
+    "img": "paper.png"
+  },
+  {
+    "slug": "book",
+    "fr_name": "Livre",
+    "id": "340",
+    "meta": "0",
+    "img": "book.png"
+  },
+  {
+    "slug": "slime_ball",
+    "fr_name": "Boule de Slime",
+    "id": "341",
+    "meta": "0",
+    "img": "slimeball.png"
+  },
+  {
+    "slug": "chest_minecart",
+    "fr_name": "Wagonnet de stockage",
+    "id": "342",
+    "meta": "0",
+    "img": "minecart_with_chest.png"
+  },
+  {
+    "slug": "furnace_minecart",
+    "fr_name": "Wagonnet motorisé",
+    "id": "343",
+    "meta": "0",
+    "img": "minecart_with_furnace.png"
+  },
+  {
+    "slug": "egg",
+    "fr_name": "Oeuf",
+    "id": "344",
+    "meta": "0",
+    "img": "egg.png"
+  },
+  {
+    "slug": "compass",
+    "fr_name": "Boussole",
+    "id": "345",
+    "meta": "0",
+    "img": "compass.png"
+  },
+  {
+    "slug": "fishing_rod",
+    "fr_name": "Canne à pêche",
+    "id": "346",
+    "meta": "0",
+    "img": "fishing_rod.png"
+  },
+  {
+    "slug": "clock",
+    "fr_name": "Montre",
+    "id": "347",
+    "meta": "0",
+    "img": "clock.png"
+  },
+  {
+    "slug": "glowstone_dust",
+    "fr_name": "Poudre lumineuse",
+    "id": "348",
+    "meta": "0",
+    "img": "glowstone_dust.png"
+  },
+  {
+    "slug": "fish",
+    "fr_name": "Morue crue",
+    "id": "349",
+    "meta": "0",
+    "img": "raw_fish.png"
+  },
+  {
+    "slug": "fish",
+    "fr_name": "Saumon cru",
+    "id": "349",
+    "meta": "1",
+    "img": "raw_salmon.png"
+  },
+  {
+    "slug": "fish",
+    "fr_name": "Poisson-clown",
+    "id": "349",
+    "meta": "2",
+    "img": "clownfish.png"
+  },
+  {
+    "slug": "fish",
+    "fr_name": "Poisson-globe",
+    "id": "349",
+    "meta": "3",
+    "img": "pufferfish.png"
+  },
+  {
+    "slug": "cooked_fish",
+    "fr_name": "Morue cuite",
+    "id": "350",
+    "meta": "0",
+    "img": "cooked_fish.png"
+  },
+  {
+    "slug": "cooked_fish",
+    "fr_name": "Saumon cuit",
+    "id": "350",
+    "meta": "1",
+    "img": "cooked_salmon.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Poche d'encre",
+    "id": "351",
+    "meta": "0",
+    "img": "ink_sac.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Rouge de rose",
+    "id": "351",
+    "meta": "1",
+    "img": "rose_red.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Vert de cactus",
+    "id": "351",
+    "meta": "2",
+    "img": "cactus_green.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Fèves de cacao",
+    "id": "351",
+    "meta": "3",
+    "img": "cocoa_beans.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Lapis-lazuli",
+    "id": "351",
+    "meta": "4",
+    "img": "lapis_lazuli.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture violette",
+    "id": "351",
+    "meta": "5",
+    "img": "purple_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture cyan",
+    "id": "351",
+    "meta": "6",
+    "img": "cyan_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture gris clair",
+    "id": "351",
+    "meta": "7",
+    "img": "light_gray_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture grise",
+    "id": "351",
+    "meta": "8",
+    "img": "gray_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture rose",
+    "id": "351",
+    "meta": "9",
+    "img": "pink_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture vert clair",
+    "id": "351",
+    "meta": "10",
+    "img": "lime_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Jaune pissenlit",
+    "id": "351",
+    "meta": "11",
+    "img": "dandelion_yellow.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture bleu clair",
+    "id": "351",
+    "meta": "12",
+    "img": "light_blue_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture magenta",
+    "id": "351",
+    "meta": "13",
+    "img": "magenta_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Teinture orange",
+    "id": "351",
+    "meta": "14",
+    "img": "orange_dye.png"
+  },
+  {
+    "slug": "dye",
+    "fr_name": "Poudre d'os",
+    "id": "351",
+    "meta": "15",
+    "img": "bone_meal.png"
+  },
+  {
+    "slug": "bone",
+    "fr_name": "Os",
+    "id": "352",
+    "meta": "0",
+    "img": "bone.png"
+  },
+  {
+    "slug": "sugar",
+    "fr_name": "Sucre",
+    "id": "353",
+    "meta": "0",
+    "img": "sugar.png"
+  },
+  {
+    "slug": "cake",
+    "fr_name": "Gâteau",
+    "id": "354",
+    "meta": "0",
+    "img": "cake.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit blanc",
+    "id": "355",
+    "meta": "0",
+    "img": "white_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit orange",
+    "id": "355",
+    "meta": "1",
+    "img": "orange_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit magenta",
+    "id": "355",
+    "meta": "2",
+    "img": "magenta_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit bleu clair",
+    "id": "355",
+    "meta": "3",
+    "img": "light_blue_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit jaune",
+    "id": "355",
+    "meta": "4",
+    "img": "yellow_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit vert clair",
+    "id": "355",
+    "meta": "5",
+    "img": "lime_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit rose",
+    "id": "355",
+    "meta": "6",
+    "img": "pink_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit gris",
+    "id": "355",
+    "meta": "7",
+    "img": "gray_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit gris clair",
+    "id": "355",
+    "meta": "8",
+    "img": "light_gray_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit cyan",
+    "id": "355",
+    "meta": "9",
+    "img": "cyan_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit violet",
+    "id": "355",
+    "meta": "10",
+    "img": "purple_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit bleu",
+    "id": "355",
+    "meta": "11",
+    "img": "blue_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit marron",
+    "id": "355",
+    "meta": "12",
+    "img": "brown_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit vert",
+    "id": "355",
+    "meta": "13",
+    "img": "green_bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit rouge",
+    "id": "355",
+    "meta": "14",
+    "img": "bed.png"
+  },
+  {
+    "slug": "bed",
+    "fr_name": "Lit noir",
+    "id": "355",
+    "meta": "15",
+    "img": "black_bed.png"
+  },
+  {
+    "slug": "repeater",
+    "fr_name": "Répéteur de redstone",
+    "id": "356",
+    "meta": "0",
+    "img": "redstone_repeater.png"
+  },
+  {
+    "slug": "cookie",
+    "fr_name": "Cookie",
+    "id": "357",
+    "meta": "0",
+    "img": "cookie.png"
+  },
+  {
+    "slug": "filled_map",
+    "fr_name": "Carte",
+    "id": "358",
+    "meta": "0",
+    "img": "map_filled.png"
+  },
+  {
+    "slug": "shears",
+    "fr_name": "Cisailles",
+    "id": "359",
+    "meta": "0",
+    "img": "shears.png"
+  },
+  {
+    "slug": "melon",
+    "fr_name": "Pastèque",
+    "id": "360",
+    "meta": "0",
+    "img": "melon.png"
+  },
+  {
+    "slug": "pumpkin_seeds",
+    "fr_name": "Graines de citrouille",
+    "id": "361",
+    "meta": "0",
+    "img": "pumpkin_seeds.png"
+  },
+  {
+    "slug": "melon_seeds",
+    "fr_name": "Graines de pastèque",
+    "id": "362",
+    "meta": "0",
+    "img": "melon_seeds.png"
+  },
+  {
+    "slug": "beef",
+    "fr_name": "Boeuf cru",
+    "id": "363",
+    "meta": "0",
+    "img": "raw_beef.png"
+  },
+  {
+    "slug": "cooked_beef",
+    "fr_name": "Steak",
+    "id": "364",
+    "meta": "0",
+    "img": "steak.png"
+  },
+  {
+    "slug": "chicken",
+    "fr_name": "Poulet cru",
+    "id": "365",
+    "meta": "0",
+    "img": "raw_chicken.png"
+  },
+  {
+    "slug": "cooked_chicken",
+    "fr_name": "Poulet rôti",
+    "id": "366",
+    "meta": "0",
+    "img": "cooked_chicken.png"
+  },
+  {
+    "slug": "rotten_flesh",
+    "fr_name": "Chair putréfiée",
+    "id": "367",
+    "meta": "0",
+    "img": "rotten_flesh.png"
+  },
+  {
+    "slug": "ender_pearl",
+    "fr_name": "Perle de l'Ender",
+    "id": "368",
+    "meta": "0",
+    "img": "ender_pearl.png"
+  },
+  {
+    "slug": "blaze_rod",
+    "fr_name": "Bâton de Blaze",
+    "id": "369",
+    "meta": "0",
+    "img": "blaze_rod.png"
+  },
+  {
+    "slug": "ghast_tear",
+    "fr_name": "Larme de Ghast",
+    "id": "370",
+    "meta": "0",
+    "img": "ghast_tear.png"
+  },
+  {
+    "slug": "gold_nugget",
+    "fr_name": "Pépite d'or",
+    "id": "371",
+    "meta": "0",
+    "img": "gold_nugget.png"
+  },
+  {
+    "slug": "nether_wart",
+    "fr_name": "Verrues du Nether",
+    "id": "372",
+    "meta": "0",
+    "img": "nether_wart.png"
+  },
+  {
+    "slug": "glass_bottle",
+    "fr_name": "Fiole",
+    "id": "374",
+    "meta": "0",
+    "img": "glass_bottle.png"
+  },
+  {
+    "slug": "spider_eye",
+    "fr_name": "Oeil d'araignée",
+    "id": "375",
+    "meta": "0",
+    "img": "spider_eye.png"
+  },
+  {
+    "slug": "fermented_spider_eye",
+    "fr_name": "Oeil d'araignée fermenté",
+    "id": "376",
+    "meta": "0",
+    "img": "fermented_spider_eye.png"
+  },
+  {
+    "slug": "blaze_powder",
+    "fr_name": "Poudre de Blaze",
+    "id": "377",
+    "meta": "0",
+    "img": "blaze_powder.png"
+  },
+  {
+    "slug": "magma_cream",
+    "fr_name": "Crème de magma",
+    "id": "378",
+    "meta": "0",
+    "img": "magma_cream.png"
+  },
+  {
+    "slug": "brewing_stand",
+    "fr_name": "Alambic",
+    "id": "379",
+    "meta": "0",
+    "img": "brewing_stand.png"
+  },
+  {
+    "slug": "cauldron",
+    "fr_name": "Chaudron",
+    "id": "380",
+    "meta": "0",
+    "img": "cauldron.png"
+  },
+  {
+    "slug": "ender_eye",
+    "fr_name": "Oeil de l'Ender",
+    "id": "381",
+    "meta": "0",
+    "img": "eye_ender.png"
+  },
+  {
+    "slug": "speckled_melon",
+    "fr_name": "Pastèque scintillante",
+    "id": "382",
+    "meta": "0",
+    "img": "glistering_melon.png"
+  },
+  {
+    "slug": "experience_bottle",
+    "fr_name": "Fiole d'expérience",
+    "id": "384",
+    "meta": "0",
+    "img": "bottle_o_enchanting.png"
+  },
+  {
+    "slug": "fire_charge",
+    "fr_name": "Boule de feu",
+    "id": "385",
+    "meta": "0",
+    "img": "fire_charge.png"
+  },
+  {
+    "slug": "writable_book",
+    "fr_name": "Livre et plume",
+    "id": "386",
+    "meta": "0",
+    "img": "book_quill.png"
+  },
+  {
+    "slug": "written_book",
+    "fr_name": "Livre écrit",
+    "id": "387",
+    "meta": "0",
+    "img": "written_book.png"
+  },
+  {
+    "slug": "emerald",
+    "fr_name": "Émeraude",
+    "id": "388",
+    "meta": "0",
+    "img": "emerald.png"
+  },
+  {
+    "slug": "item_frame",
+    "fr_name": "Cadre",
+    "id": "389",
+    "meta": "0",
+    "img": "item_frame.png"
+  },
+  {
+    "slug": "flower_pot",
+    "fr_name": "Pot de fleurs",
+    "id": "390",
+    "meta": "0",
+    "img": "flower_pot.png"
+  },
+  {
+    "slug": "carrot",
+    "fr_name": "Carotte",
+    "id": "391",
+    "meta": "0",
+    "img": "carrot.png"
+  },
+  {
+    "slug": "potato",
+    "fr_name": "Pomme de terre",
+    "id": "392",
+    "meta": "0",
+    "img": "potato.png"
+  },
+  {
+    "slug": "baked_potato",
+    "fr_name": "Pomme de terre cuite",
+    "id": "393",
+    "meta": "0",
+    "img": "baked_potato.png"
+  },
+  {
+    "slug": "poisonous_potato",
+    "fr_name": "Pomme de terre empoisonnée",
+    "id": "394",
+    "meta": "0",
+    "img": "poisonous_potato.png"
+  },
+  {
+    "slug": "map",
+    "fr_name": "Carte",
+    "id": "395",
+    "meta": "0",
+    "img": "map.png"
+  },
+  {
+    "slug": "golden_carrot",
+    "fr_name": "Carotte dorée",
+    "id": "396",
+    "meta": "0",
+    "img": "golden_carrot.png"
+  },
+  {
+    "slug": "skull",
+    "fr_name": "Crâne de squelette",
+    "id": "397",
+    "meta": "0",
+    "img": "skeleton_skull.png"
+  },
+  {
+    "slug": "skull",
+    "fr_name": "Crâne de Wither squelette",
+    "id": "397",
+    "meta": "1",
+    "img": "wither_skeleton_skull.png"
+  },
+  {
+    "slug": "skull",
+    "fr_name": "Tête de zombie",
+    "id": "397",
+    "meta": "2",
+    "img": "zombie_head.png"
+  },
+  {
+    "slug": "skull",
+    "fr_name": "Tête de Creeper",
+    "id": "397",
+    "meta": "4",
+    "img": "creeper_head.png"
+  },
+  {
+    "slug": "skull",
+    "fr_name": "Tête de dragon",
+    "id": "397",
+    "meta": "5",
+    "img": "dragon_head.png"
+  },
+  {
+    "slug": "carrot_on_a_stick",
+    "fr_name": "Carotte sur un bâton",
+    "id": "398",
+    "meta": "0",
+    "img": "carrot_stick.png"
+  },
+  {
+    "slug": "nether_star",
+    "fr_name": "Étoile du Nether",
+    "id": "399",
+    "meta": "0",
+    "img": "nether_star.png"
+  },
+  {
+    "slug": "pumpkin_pie",
+    "fr_name": "Tarte à la citrouille",
+    "id": "400",
+    "meta": "0",
+    "img": "pumpkin_pie.png"
+  },
+  {
+    "slug": "fireworks",
+    "fr_name": "Fusée de feu d'artifice",
+    "id": "401",
+    "meta": "0",
+    "img": "firework_rocket.png"
+  },
+  {
+    "slug": "firework_charge",
+    "fr_name": "Étoile de feu d'artifice",
+    "id": "402",
+    "meta": "0",
+    "img": "firework_star.png"
+  },
+  {
+    "slug": "enchanted_book",
+    "fr_name": "Livre enchanté",
+    "id": "403",
+    "meta": "0",
+    "img": "enchanted_book.png"
+  },
+  {
+    "slug": "comparator",
+    "fr_name": "Comparateur de redstone",
+    "id": "404",
+    "meta": "0",
+    "img": "redstone_comparator.png"
+  },
+  {
+    "slug": "netherbrick",
+    "fr_name": "Brique du Nether",
+    "id": "405",
+    "meta": "0",
+    "img": "nether_brick.png"
+  },
+  {
+    "slug": "quartz",
+    "fr_name": "Quartz du Nether",
+    "id": "406",
+    "meta": "0",
+    "img": "nether_quartz.png"
+  },
+  {
+    "slug": "tnt_minecart",
+    "fr_name": "Wagonnet à TNT",
+    "id": "407",
+    "meta": "0",
+    "img": "minecart_with_tnt.png"
+  },
+  {
+    "slug": "hopper_minecart",
+    "fr_name": "Wagonnet à entonnoir",
+    "id": "408",
+    "meta": "0",
+    "img": "minecart_with_hopper.png"
+  },
+  {
+    "slug": "prismarine_shard",
+    "fr_name": "Éclat de prismarine",
+    "id": "409",
+    "meta": "0",
+    "img": "prismarine_shard.png"
+  },
+  {
+    "slug": "prismarine_crystals",
+    "fr_name": "Cristaux de prismarine",
+    "id": "410",
+    "meta": "0",
+    "img": "prismarine_crystal.png"
+  },
+  {
+    "slug": "rabbit",
+    "fr_name": "Lapin cru",
+    "id": "411",
+    "meta": "0",
+    "img": "raw_rabbit.png"
+  },
+  {
+    "slug": "cooked_rabbit",
+    "fr_name": "Lapin cuit",
+    "id": "412",
+    "meta": "0",
+    "img": "cooked_rabbit.png"
+  },
+  {
+    "slug": "rabbit_stew",
+    "fr_name": "Ragoût de lapin",
+    "id": "413",
+    "meta": "0",
+    "img": "rabbit_stew.png"
+  },
+  {
+    "slug": "rabbit_foot",
+    "fr_name": "Patte de lapin",
+    "id": "414",
+    "meta": "0",
+    "img": "rabbits_foot.png"
+  },
+  {
+    "slug": "rabbit_hide",
+    "fr_name": "Peau de lapin",
+    "id": "415",
+    "meta": "0",
+    "img": "rabbit_hide.png"
+  },
+  {
+    "slug": "armor_stand",
+    "fr_name": "Porte-armure",
+    "id": "416",
+    "meta": "0",
+    "img": "armor_stand.png"
+  },
+  {
+    "slug": "iron_horse_armor",
+    "fr_name": "Armure en fer pour cheval",
+    "id": "417",
+    "meta": "0",
+    "img": "iron_horse_armor.png"
+  },
+  {
+    "slug": "golden_horse_armor",
+    "fr_name": "Armure en or pour cheval",
+    "id": "418",
+    "meta": "0",
+    "img": "golden_horse_armor.png"
+  },
+  {
+    "slug": "diamond_horse_armor",
+    "fr_name": "Armure en diamant pour cheval",
+    "id": "419",
+    "meta": "0",
+    "img": "diamond_horse_armor.png"
+  },
+  {
+    "slug": "lead",
+    "fr_name": "Laisse",
+    "id": "420",
+    "meta": "0",
+    "img": "lead.png"
+  },
+  {
+    "slug": "name_tag",
+    "fr_name": "Étiquette",
+    "id": "421",
+    "meta": "0",
+    "img": "name_tag.png"
+  },
+  {
+    "slug": "command_block_minecart",
+    "fr_name": "Wagonnet avec bloc de commande",
+    "id": "422",
+    "meta": "0",
+    "img": "minecart_with_command_block.png"
+  },
+  {
+    "slug": "mutton",
+    "fr_name": "Mouton cru",
+    "id": "423",
+    "meta": "0",
+    "img": "raw_mutton.png"
+  },
+  {
+    "slug": "cooked_mutton",
+    "fr_name": "Mouton cuit",
+    "id": "424",
+    "meta": "0",
+    "img": "cooked_mutton.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière noire",
+    "id": "425",
+    "meta": "0",
+    "img": "black_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière rouge",
+    "id": "425",
+    "meta": "1",
+    "img": "red_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière verte",
+    "id": "425",
+    "meta": "2",
+    "img": "green_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière marron",
+    "id": "425",
+    "meta": "3",
+    "img": "brown_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière bleue",
+    "id": "425",
+    "meta": "4",
+    "img": "blue_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière violette",
+    "id": "425",
+    "meta": "5",
+    "img": "purple_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière cyan",
+    "id": "425",
+    "meta": "6",
+    "img": "cyan_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière gris clair",
+    "id": "425",
+    "meta": "7",
+    "img": "light_gray_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière grise",
+    "id": "425",
+    "meta": "8",
+    "img": "gray_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière rose",
+    "id": "425",
+    "meta": "9",
+    "img": "pink_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière vert clair",
+    "id": "425",
+    "meta": "10",
+    "img": "lime_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière jaune",
+    "id": "425",
+    "meta": "11",
+    "img": "yellow_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière bleu clair",
+    "id": "425",
+    "meta": "12",
+    "img": "light_blue_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière magenta",
+    "id": "425",
+    "meta": "13",
+    "img": "magenta_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière orange",
+    "id": "425",
+    "meta": "14",
+    "img": "orange_banner.png"
+  },
+  {
+    "slug": "banner",
+    "fr_name": "Bannière blanche",
+    "id": "425",
+    "meta": "15",
+    "img": "white_banner.png"
+  },
+  {
+    "slug": "end_crystal",
+    "fr_name": "Cristal de l'End",
+    "id": "426",
+    "meta": "0",
+    "img": "end_crystal.png"
+  },
+  {
+    "slug": "spruce_door",
+    "fr_name": "Porte en bois de sapin",
+    "id": "427",
+    "meta": "0",
+    "img": "spruce_door.png"
+  },
+  {
+    "slug": "birch_door",
+    "fr_name": "Porte en bois de bouleau",
+    "id": "428",
+    "meta": "0",
+    "img": "birch_door.png"
+  },
+  {
+    "slug": "jungle_door",
+    "fr_name": "Porte en bois d'acajou",
+    "id": "429",
+    "meta": "0",
+    "img": "jungle_door.png"
+  },
+  {
+    "slug": "acacia_door",
+    "fr_name": "Porte en bois d'acacia",
+    "id": "430",
+    "meta": "0",
+    "img": "acacia_door.png"
+  },
+  {
+    "slug": "dark_oak_door",
+    "fr_name": "Porte en bois de chêne noir",
+    "id": "431",
+    "meta": "0",
+    "img": "dark_oak_door.png"
+  },
+  {
+    "slug": "chorus_fruit",
+    "fr_name": "Chorus",
+    "id": "432",
+    "meta": "0",
+    "img": "chorus_fruit.png"
+  },
+  {
+    "slug": "chorus_fruit_popped",
+    "fr_name": "Chorus éclaté",
+    "id": "433",
+    "meta": "0",
+    "img": "popped_chorus_fruit.png"
+  },
+  {
+    "slug": "beetroot",
+    "fr_name": "Betterave",
+    "id": "434",
+    "meta": "0",
+    "img": "beetroot.png"
+  },
+  {
+    "slug": "beetroot_seeds",
+    "fr_name": "Graines de betterave",
+    "id": "435",
+    "meta": "0",
+    "img": "beetroot_seeds.png"
+  },
+  {
+    "slug": "beetroot_soup",
+    "fr_name": "Soupe de betteraves",
+    "id": "436",
+    "meta": "0",
+    "img": "beetroot_soup.png"
+  },
+  {
+    "slug": "dragon_breath",
+    "fr_name": "Souffle de dragon",
+    "id": "437",
+    "meta": "0",
+    "img": "dragons_breath.png"
+  },
+  {
+    "slug": "spectral_arrow",
+    "fr_name": "Flèche spectrale",
+    "id": "439",
+    "meta": "0",
+    "img": "spectral_arrow.png"
+  },
+  {
+    "slug": "shield",
+    "fr_name": "Bouclier",
+    "id": "442",
+    "meta": "0",
+    "img": "shield.png"
+  },
+  {
+    "slug": "elytra",
+    "fr_name": "Élytres",
+    "id": "443",
+    "meta": "0",
+    "img": "elytra.png"
+  },
+  {
+    "slug": "spruce_boat",
+    "fr_name": "Bateau en bois de sapin",
+    "id": "444",
+    "meta": "0",
+    "img": "spruce_boat.png"
+  },
+  {
+    "slug": "birch_boat",
+    "fr_name": "Bateau en bois de bouleau",
+    "id": "445",
+    "meta": "0",
+    "img": "birch_boat.png"
+  },
+  {
+    "slug": "jungle_boat",
+    "fr_name": "Bateau en bois d'acajou",
+    "id": "446",
+    "meta": "0",
+    "img": "jungle_boat.png"
+  },
+  {
+    "slug": "acacia_boat",
+    "fr_name": "Bateau en bois d'acacia",
+    "id": "447",
+    "meta": "0",
+    "img": "acacia_boat.png"
+  },
+  {
+    "slug": "dark_oak_boat",
+    "fr_name": "Bateau en bois de chêne noir",
+    "id": "448",
+    "meta": "0",
+    "img": "dark_oak_boat.png"
+  },
+  {
+    "slug": "totem_of_undying",
+    "fr_name": "Totem d'immortalité",
+    "id": "449",
+    "meta": "0",
+    "img": "totem_undying.png"
+  },
+  {
+    "slug": "shulker_shell",
+    "fr_name": "Carapace de Shulker",
+    "id": "450",
+    "meta": "0",
+    "img": "shulker_shell.png"
+  },
+  {
+    "slug": "iron_nugget",
+    "fr_name": "Pépite de fer",
+    "id": "452",
+    "meta": "0",
+    "img": "iron_nugget.png"
+  }
+]
